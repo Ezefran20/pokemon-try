@@ -217,7 +217,7 @@ img{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    align-items: center;
+
     margin: 1rem;
 }
 button{
@@ -246,5 +246,5 @@ button:hover{
 }
 
 .option .option-push{
-margin-top: .5rem;
+    margin-top: .5rem;
 }
