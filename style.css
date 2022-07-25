@@ -263,6 +263,6 @@ button:hover{
 
 @media screen and (max-width: 500px) {
     .flex{
-        margin: 8rem;
+        margin: 4rem;
     }
 }
