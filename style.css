@@ -23,7 +23,6 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin: 7rem;
 }
 
 .recolor{
@@ -254,7 +253,6 @@ button:hover{
     transform: translateY(-5px);
     margin-left: 1rem;
 }
-
 @media screen and (max-width: 375px) {
     .flex{
         margin: 4rem;
@@ -263,6 +261,12 @@ button:hover{
 
 @media screen and (max-width: 500px) {
     .flex{
-        margin: 8rem;
+        margin: 2rem;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .flex{
+        margin: 7rem;
     }
 }
