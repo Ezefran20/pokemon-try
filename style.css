@@ -100,6 +100,7 @@ box-shadow: 0px 0px 67px 0px rgba(254,188,97,0.63);
     margin-top: 1rem;
     margin-left: .2rem;
     margin-right: .2rem;
+    font-weight: 500;
 }
 
 .container .header .header-paragraph span{
@@ -120,8 +121,8 @@ box-shadow: 0px 0px 67px 0px rgba(254,188,97,0.63);
     margin-left: .5rem;
 }
 .container .header img{
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     vertical-align: middle;
 }
 
@@ -148,7 +149,7 @@ ul{
 .container .common-content .id-pokemon{
     color: var(--white);
     font-size: 1.2rem;
-    font-weight: 400;
+    font-weight: 500;
     text-align: left;
 }
 .container .common-content .name-pokemon{
@@ -202,8 +203,8 @@ img{
     border-bottom: solid 2px var(--yellow-orange);
 }
 .abilities-pokemon img{
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     vertical-align: middle;
     margin-right: .5rem;
 }
@@ -217,7 +218,6 @@ img{
     display: flex;
     justify-content: center;
     flex-direction: column;
-
     margin: 1rem;
 }
 button{
@@ -239,12 +239,16 @@ button:hover{
 }
 
 .option img{
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     vertical-align: middle;
     margin-right: .5rem;
 }
 
 .option .option-push{
     margin-top: .5rem;
+}
+
+.icon1{
+    transform: translateY(-5px);
 }
