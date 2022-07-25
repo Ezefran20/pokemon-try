@@ -33,7 +33,7 @@ body{
     align-items: center;
     flex-direction: column;
     width: 380px;
-    min-height: 850px;
+    min-height: 880px;
     border-radius: 1.5rem;
     background-image: linear-gradient(
         180deg,
@@ -212,7 +212,7 @@ img{
 
 .abilities-pokemon .abilities-info{
     margin-top: .5rem;
-    margin-left: 2.5rem;
+    margin-left: 1rem;
     text-indent: 1rem;
 }
 .option {
